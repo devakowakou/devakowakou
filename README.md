@@ -267,7 +267,18 @@
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake-dark.svg)
+<!-- GitHub Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Alternative: Working Snake Animation -->
+<img src="https://github.com/devakowakou/devakowakou/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Backup: Activity Graph if Snake doesn't work -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devakowakou&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 <br>
 
