@@ -11,7 +11,7 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/devakowakou?logo=github&style=for-the-badge)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/a_akowakou?logo=twitter&style=for-the-badge)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/amour_akowakou?logo=twitter&style=for-the-badge)
   ![Visitors](https://komarev.com/ghpvc/?username=devakowakou&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #303031ff 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 🎯 **Current Mission**: Building innovative web solutions that make a difference
 
@@ -134,38 +134,44 @@
 
 
 
-## 🎯 Current Focus & Journey
+## 🎯 Current Focus & Roadmap
 
 <div align="center">
 
-### 📚 Currently Learning
+### 🌱 Currently Learning
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logo=microgenetics&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🚀 What I'm Building
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-**🔥 Languages**
-<br><br>
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-
-</td>
-<td align="center" width="33%">
-
-**🏗️ Architecture**
-<br><br>
-[![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/donnemartin/system-design-primer)
-[![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logo=microgenetics&logoColor=white)](https://microservices.io/)
-[![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-devops/)
+**🏗️ Current Projects**
+- 🌐 **Scalable Web Applications**
+- 🔗 **RESTful APIs & GraphQL**
+- 📱 **Progressive Web Apps**
+- 🛡️ **Secure Authentication Systems**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-**☁️ Cloud & Tools**
-<br><br>
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+**🤝 Community Contributions**
+- 🌟 **Open Source Projects**
+- 🛠️ **Developer Tools & Libraries**
+- 📖 **Technical Documentation**
+- 🎓 **Educational Content**
 
 </td>
 </tr>
@@ -173,32 +179,21 @@
 
 ---
 
-### 🛠️ Currently Building
+### 📈 Skills Enhancement
 
 <div align="center">
 
-| 🚀 **Projects** | 🌟 **Open Source** |
-|:---:|:---:|
-| ![Web Apps](https://img.shields.io/badge/Scalable%20Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Open Source](https://img.shields.io/badge/Community%20Projects-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![APIs](https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Tools](https://img.shields.io/badge/Developer%20Tools-FF6B35?style=for-the-badge&logo=tools&logoColor=white) |
+**💻 Technical Skills**
 
-</div>
+🎯 **Code Quality** ████████▓░ 85%  
+⚡ **Performance Optimization** ████████░░ 80%  
+🧪 **Test Coverage** ███████▓░░ 75%  
 
----
+**🏛️ Architecture & Practices**
 
-### 📈 Continuous Improvement
-
-<div align="center">
-
-**💡 Skills Enhancement**
-<br>
-![Code Quality](https://img.shields.io/badge/Code%20Quality-8E44AD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance%20Optimization-E74C3C?style=for-the-badge&logo=speedtest&logoColor=white)
-
-**🏛️ Best Practices**
-<br>
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2ECC71?style=for-the-badge&logo=architecture&logoColor=white)
-![TDD](https://img.shields.io/badge/Test%20Driven%20Development-F39C12?style=for-the-badge&logo=testing-library&logoColor=white)
+🏗️ **Clean Architecture** ████████▓░ 82%  
+🔄 **Test Driven Development** ███████▓░░ 78%  
+📐 **Design Patterns** █████████░ 88%  
 
 </div>
 
@@ -208,50 +203,29 @@
 
 <div align="center">
 
-```typescript
-interface Goals2025 {
-  projects: {
-    target: number;
-    description: string;
-    status: 'planning' | 'in-progress' | 'completed';
-  }[];
-  community: {
-    openSource: number;
-    mentoring: boolean;
-    speaking: boolean;
-  };
-  learning: {
-    certifications: string[];
-    technologies: string[];
-  };
-}
+| 🎯 **Goal** | 📊 **Progress** | 🔄 **Status** | ⏰ **Timeline** |
+|-------------|-----------------|---------------|-----------------|
+| 🚀 **Launch 3 Major Projects** | ██▓░░░░░░░ 25% | 🔄 In Progress | Q1-Q4 2025 |
+| 🌟 **10+ Open Source Contributions** | ████░░░░░░ 40% | 🔄 In Progress | Ongoing |
+| 📚 **Master System Design** | ██████░░░░ 60% | 📖 Learning | Q2 2025 |
+| 🤝 **Mentor Junior Developers** | ███░░░░░░░ 30% | 🎯 Starting | Q3 2025 |
 
-const myGoals2025: Goals2025 = {
-  projects: [
-    { target: 3, description: "🚀 Launch major web applications", status: 'planning' },
-    { target: 5, description: "📱 Create mobile-first solutions", status: 'planning' }
-  ],
-  community: {
-    openSource: 10, // 🌟 Contribute to 10+ repositories
-    mentoring: true, // 🤝 Mentor junior developers  
-    speaking: true   // 🎤 Tech talks & workshops
-  },
-  learning: {
-    certifications: ["AWS Solutions Architect", "Kubernetes Administrator"],
-    technologies: ["🐹 Advanced Go", "🐍 Python Machine Learning", "☁️ Cloud Architecture"]
-  }
-};
-
-console.log("🎯 Mission 2025: Build, Learn, Share, Grow! 🚀✨");
-```
+**📈 Overall Progress:** ████░░░░░░ 38.75%
 
 </div>
 
-**📊 Progress Tracker**
-<br>
-![Projects](https://img.shields.io/badge/Major%20Projects-0%2F3-red?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-2%2F10-yellow?style=for-the-badge)
-![Mentoring](https://img.shields.io/badge/Mentoring-Active-green?style=for-the-badge)
+---
+
+<div align="center">
+
+**🎨 Currently Crafting Digital Experiences That Matter**
+
+[![Status](https://img.shields.io/badge/Status-Building%20The%20Future-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/devakowakou)
+[![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Innovation-blue?style=for-the-badge&logo=code&logoColor=white)](https://akowakou-amour.vercel.app)
+
+*"Code is poetry in motion, turning ideas into reality"* ✨
+
+</div>
 
 </div>
 
