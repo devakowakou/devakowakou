@@ -95,8 +95,8 @@
 
 <!-- Stats Cards -->
 <a href="https://github.com/devakowakou">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devakowakou&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Amour's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakowakou&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devakowakou&show_icons=true&theme=radical&hide_border=true" alt="Amour's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakowakou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </a>
 
 <!-- Contribution Graph -->
@@ -105,7 +105,7 @@
 
 <!-- Streak Stats -->
 <br/>
-<img width="98%" src="https://streak-stats.demolab.com/?user=devakowakou&theme=radical&hide_border=true&mode=weekly&fire=DD2727&currStreakNum=58A6FF&dates=58A6FF" alt="GitHub Streak" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=devakowakou&theme=radical&hide_border=true&fire=DD2727&currStreakNum=58A6FF&dates=58A6FF" alt="GitHub Streak" />
 
 </div>
 
