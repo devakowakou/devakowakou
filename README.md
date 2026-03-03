@@ -1,283 +1,117 @@
-<!-- Profile Header with Wave Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Let's%20build%20something%20amazing%20together&descAlignY=60&descSize=18" width="100%" />
-</div>
+# 👋 Hi, I'm Amour AKOWAKOU
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Amour+AKOWAKOU;Full+Stack+Developer+💻;From+Benin+🇧🇯;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀&center=true&size=25&color=58A6FF&width=800&height=60&duration=4000&pause=1000)](https://akowakou-amour.vercel.app/)
+Full-Stack Developer building scalable and production-ready web applications with modern TypeScript and JavaScript ecosystems.
 
-<h1 align="center">Hello, I'm Amour AKOWAKOU 👨‍💻</h1>
-<h3 align="center">A passionate full-stack developer from Benin</h3>
-
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/devakowakou?logo=github&style=for-the-badge)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/amour_akowakou?logo=twitter&style=for-the-badge)
-  ![Visitors](https://komarev.com/ghpvc/?username=devakowakou&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
+🌍 Based in Benin — Open to remote opportunities worldwide  
+📩 akowakou.dev@gmail.com  
+🔗 Portfolio: https://amourakowakou.me  
 
 ---
 
 ## 🚀 About Me
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
+I design and build reliable backend systems and performant frontend applications with a strong focus on maintainability and clean architecture.
 
-🎯 **Current Mission**: Building innovative web solutions that make a difference
+What I bring:
 
-🌱 **Currently Learning**: 
-- **Golang** for backend performance optimization
-- **Advanced System Design** patterns and microservices architecture
-- **Cloud Technologies** (AWS, Docker, Kubernetes)
+- Production-ready REST API design
+- Secure authentication & authorization (JWT, RBAC)
+- Scalable backend architecture
+- Database optimization & indexing
+- Dockerized environments
+- CI/CD fundamentals
+- Strong asynchronous communication for remote teams
 
-👨‍💻 **Portfolio**: Explore my work at **[akowakou-amour.vercel.app](https://akowakou-amour.vercel.app/)**
-
-💬 **Ask me about**: 
-- Frontend: **React, Next.js, TypeScript, Tailwind CSS**
-- Backend: **Node.js, Express, API Design**
-- Database: **MongoDB, MySQL, Database Optimization**
-- Tools: **Git, Figma, Performance Optimization**
-
-📫 **Let's Connect**: **akowakou.dev@gmail.com**
-
-⚡ **Fun Facts**: 
-- 🧩 I love solving complex algorithmic challenges
-- 🌍 Passionate about building scalable applications
-- 🎨 I enjoy creating pixel-perfect user interfaces
-- 📚 Always exploring new technologies and best practices
-
-</div>
+I focus on turning complex requirements into clean, efficient, and maintainable systems.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Core Tech Stack
 
-<div align="center">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+REST APIs • JWT • Role-Based Access Control (RBAC)
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### 🔧 Tools & Development
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Query optimization • Indexing strategies
 
-</div>
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+</p>
+
+Environment configuration • CI/CD basics • Cloud deployment
 
 ---
 
-## 📊 GitHub Analytics
+## ⚙️ Engineering Practices
 
-<div align="center">
-
-<!-- Stats Cards -->
-<a href="https://github.com/devakowakou">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devakowakou&show_icons=true&theme=radical&hide_border=true" alt="Amour's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakowakou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-
-<!-- Contribution Graph -->
-<br/>
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devakowakou&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&line=58A6FF&point=58A6FF&color=FFFFFF" alt="GitHub Activity Graph" />
-
-<!-- Streak Stats -->
-<br/>
-<img width="98%" src="https://streak-stats.demolab.com/?user=devakowakou&theme=radical&hide_border=true&fire=DD2727&currStreakNum=58A6FF&dates=58A6FF" alt="GitHub Streak" />
-
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devakowakou&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- Clean Architecture principles
+- SOLID design principles
+- Modular codebase structuring
+- Service & repository pattern
+- Input validation & security best practices
+- Centralized error handling & logging
+- Performance optimization
+- API documentation (Swagger / Postman)
 
 ---
 
-## 🚀 Featured Projects
+## 🌍 Remote Work
 
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌐 **Portfolio Website** | Modern responsive portfolio with dark/light theme | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://akowakou-amour.vercel.app) |
-| 💼 **Project Management App** | Full-stack project management solution | React, Node.js, MongoDB | Coming Soon |
-| 🛒 **E-commerce Platform** | Scalable e-commerce with payment integration | Next.js, Stripe, Prisma | In Development |
-
-</div>
-
-
-
-## 🎯 Current Focus & Roadmap
-
-<div align="center">
-
-### 🌱 Currently Learning
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logo=microgenetics&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Comfortable working asynchronously
+- Clear written technical communication
+- Independent problem solving
+- Used to managing tasks autonomously
+- Fluent in technical English
 
 ---
 
-### 🚀 What I'm Building
+## 📫 Connect With Me
 
-<table>
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <a href="https://linkedin.com/in/amour-akowakou-b3388127a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/a_akowakou">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/28639842/amour-akowakou">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://amourakowakou.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:akowakou.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**🏗️ Current Projects**
-- 🌐 **Scalable Web Applications**
-- 🔗 **RESTful APIs & GraphQL**
-- 📱 **Progressive Web Apps**
-- 🛡️ **Secure Authentication Systems**
-
-</td>
-<td align="center" width="50%">
-
-**🤝 Community Contributions**
-- 🌟 **Open Source Projects**
-- 🛠️ **Developer Tools & Libraries**
-- 📖 **Technical Documentation**
-- 🎓 **Educational Content**
-
-</td>
-</tr>
-</table>
-
----
-
-### 📈 Skills Enhancement
-
-<div align="center">
-
-**💻 Technical Skills**
-
-🎯 **Code Quality** ████████▓░ 85%  
-⚡ **Performance Optimization** ████████░░ 80%  
-🧪 **Test Coverage** ███████▓░░ 75%  
-
-**🏛️ Architecture & Practices**
-
-🏗️ **Clean Architecture** ████████▓░ 82%  
-🔄 **Test Driven Development** ███████▓░░ 78%  
-📐 **Design Patterns** █████████░ 88%  
-
-</div>
+<p align="center">
+Open to remote opportunities, collaborations, and technical discussions.
+</p>
 
 ---
 
-### 🎯 2025 Goals & Milestones
+## 🤝 Open To
 
-<div align="center">
-
-| 🎯 **Goal** | 📊 **Progress** | 🔄 **Status** | ⏰ **Timeline** |
-|-------------|-----------------|---------------|-----------------|
-| 🚀 **Launch 3 Major Projects** | ██▓░░░░░░░ 25% | 🔄 In Progress | Q1-Q4 2025 |
-| 🌟 **10+ Open Source Contributions** | ████░░░░░░ 40% | 🔄 In Progress | Ongoing |
-| 📚 **Master System Design** | ██████░░░░ 60% | 📖 Learning | Q2 2025 |
-| 🤝 **Mentor Junior Developers** | ███░░░░░░░ 30% | 🎯 Starting | Q3 2025 |
-
-**📈 Overall Progress:** ████░░░░░░ 38.75%
-
-</div>
+- Remote Full-Stack Developer roles
+- Backend-focused engineering roles
+- Startup & product-driven environments
+- Long-term product engineering teams
 
 ---
 
-<div align="center">
-
-**🎨 Currently Crafting Digital Experiences That Matter**
-
-[![Status](https://img.shields.io/badge/Status-Building%20The%20Future-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/devakowakou)
-[![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Innovation-blue?style=for-the-badge&logo=code&logoColor=white)](https://akowakou-amour.vercel.app)
-
-*"Code is poetry in motion, turning ideas into reality"* ✨
-
-</div>
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-**🤝 I'm always excited to connect with fellow developers, discuss new projects, or explore collaboration opportunities!**
-
-<br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/a_akowakou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/amour-akowakou-b3388127a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF6B6B)](https://akowakou-amour.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:akowakou.dev@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16)](https://stackoverflow.com/users/28639842/amour-akowakou)
-
-<br>
-
-**💡 Open to:**
-- 🚀 Exciting project collaborations
-- 💼 Freelance opportunities  
-- 🎓 Mentoring & knowledge sharing
-- 🌟 Open source contributions
-
-</div>
-
-
----
-
-<div align="center">
-
-### ✨ *"The best way to predict the future is to create it."* ✨
-
-<br>
-
-**🙏 Thank you for visiting my profile! Don't forget to ⭐ star repositories you find interesting!**
-
-<br>
-
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/devakowakou/devakowakou/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
-
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devakowakou&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</div>
+“Building software that scales and solves real-world problems.”
